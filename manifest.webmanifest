@@ -1,1 +1,16 @@
-{"name":"Life by Design","short_name":"Life Design","start_url":"./","display":"standalone","background_color":"#f6f6f1","theme_color":"#141714","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "Life by Design \u2014 Personal Command Center",
+  "short_name": "Life by Design",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0d192c",
+  "theme_color": "#162a47",
+  "icons": [
+    {
+      "src": "app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
