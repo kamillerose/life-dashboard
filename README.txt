@@ -11,3 +11,5 @@ After GitHub Pages deploys, refresh the app while online. For installed apps, cl
 Version 3.6: updated morning/evening journaling and weekly date-night check-ins with Isaac. Existing data remains in local storage. Export before updating.
 
 V3.7: Added one meaningful-connection tracker (7 days) and weekly Isaac reflection. Existing date nights remain. Backup data before uploading.
+
+V3.8: Removed date-night tracker from the interface. Meaningful connection with Isaac remains. Previous date-night records are retained in local backup data for safety.
