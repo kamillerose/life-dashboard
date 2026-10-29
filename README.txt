@@ -7,3 +7,7 @@ Upload these six files to the ROOT of your existing GitHub life-dashboard reposi
 
 Your entries are saved locally on the same browser and origin. Do not clear site data.
 After GitHub Pages deploys, refresh the app while online. For installed apps, close and reopen after refreshing.
+
+Version 3.6: updated morning/evening journaling and weekly date-night check-ins with Isaac. Existing data remains in local storage. Export before updating.
+
+V3.7: Added one meaningful-connection tracker (7 days) and weekly Isaac reflection. Existing date nights remain. Backup data before uploading.
